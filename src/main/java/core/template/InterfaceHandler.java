@@ -2,6 +2,7 @@ package core.template;
 
 public interface InterfaceHandler {
 
+//我在github上添加了
     /**
      * 检查入参
      */
